@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+     <link rel = "stylesheet" type = "text/css" href="style.css" >
+</head>
+<body>
+    <h1 class = "uppercase cursive">What Is Coding?</h1>
+
+<p>Coding runs the world as we know it, but the vast majority of people aren’t even aware of its existence, let alone what it even is, despite the fact that coding is vital for most of the contemporary businesses.</p>
+<p>That's why those who choose to learn to code (whether with one online course, or another) are in high demand for employers.  
+
+    Before we start digging deeper, I want you to try to answer "What is Coding?" for yourself...
+    
+    Now, right-click somewhere inside your browser window, and select ‘View Page Source’. Scroll through the window that pops up and see if you recognize or understand anything.</p>
+<h3>Elements Of Web Developmnt</h3>
+<p id = "heading">As you may have expected, you were just viewing the code behind this webpage, or the document object model (DOM). That means, that you see the full markup of the page and if you have learned at least the basics HTML, CSS or JavaScript, it might be easier to spot some familiar tags and elements.</p>
+<h3>Table of Contents</h3>
+<p> 1. Code As a ‘Translator’<br>
+    2. Why Should I Learn Coding?<br>
+    3. What Types Of Coders Are There?<br>
+    3.1. Front-End Developer<br>
+    3.2. Back-End Developer<br>
+    3.3. Mobile App Developer<br>
+    4. Coding VS Programming?<br>
+    5. Popular Coding Languages<br>
+    5.1. HTML<br>
+    5.2. CSS<br>
+    5.3. Python<br>
+    5.4. Java<br>
+    5.5. JavaScript<br>
+    6. How Can I Fast-Track My Learning?<br>
+    7. Time to Start Learning<br>
+</p>
+</body>
+</html>
